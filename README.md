@@ -3,6 +3,7 @@
 
 Exercise description: https://coderefinery.github.io/git-collaborative/centralized/
 
+[![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
